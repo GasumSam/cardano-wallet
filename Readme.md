@@ -8,7 +8,7 @@
 
 Sources:
 
-[Cardano Developers](https://https://developers.cardano.org/) \
+[Cardano Developers](https://developers.cardano.org/) \
 [IOHK](https://github.com/input-output-hk/cardano-wallet) (Github) \
 [IOHK Wallet User Guide](https://input-output-hk.github.io/cardano-wallet/user-guide) \
 [Cardano Wallet Backend API Docs](https://input-output-hk.github.io/cardano-wallet/api/edge/)\
